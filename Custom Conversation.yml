@@ -1,14 +1,55 @@
 categories:
 - english
 - greetings
+- Main Corridor
+- medical
+- directions
 conversations:
 - - Hello
   - Hi
 - - Hello
-  - Hi, how are you?
-  - I am doing well.
-- - Good day to you sir!
-  - Why thank you.
-- - Hi, How is it going?
-  - It's going good, your self?
-  - Mighty fine, thank you.
+  - Hi, how may I help you?
+  - How can I be of service?
+- - I Need help with a service
+  - Sure, What may I asisst you with?.
+- - I need help with getting directions
+  - Sure, directions to where?
+  - I can help you with directions
+- - Where Am I currently?
+- - Where am I?
+- - I dont know where I am
+- - I am Lost
+  - you are in the main corridor
+  - I believe you are in the main corridor
+  - It seems you are in the main Corridor
+- - I am in the main corridor
+- - Am I in the main corridor?
+  - That is correct you are in the main Corridor
+  - correct
+- - I am in the Left corridor
+  - That is incorrect you are in the main corridor currently
+  - Judging from what you have told me, you are in the left corridor
+- - Where is the bathroom?
+- - I need to find a bathroom
+- - I need to pee
+- - I need to take a number 2
+- - I need to take a number 1
+- - I need to poop
+  - It is in the third door in the main corridor to the left
+  - You may find the bathroom in third room down the main corridor to the left
+  - Third door, main corridor to the left, bathroom is located there
+- - Where is the exit?
+  - the exit is located on both sides of the main Corridor
+- - This is an emergency
+- - Where can I find the emergency room?
+- - I am in pain
+- - I need help badly
+- - I am hurting
+- - This is an emergency
+  - Emergency room is in the left corridor the first room to the right
+  - you may find the emergency room in the left corridor the first room to the right
+- - Where can I find the lab?
+- - I need help finding the lab
+- - where is the lab?
+- - I dont know where the lab is
+  - the medical lab is on the right corridor in the 2nd room to the Left
