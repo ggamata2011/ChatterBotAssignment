@@ -1,0 +1,115 @@
+categories:
+- english
+- greetings
+- Main Corridor
+- medical
+- Emergency
+- pains
+- hurting
+- directions
+conversations:
+- - Hello
+  - Hi
+- - Hello
+  - Hi, how may I help you?
+- - Hello there
+  - How can I be of service?
+  - I Need help with a service
+  - Sure, do you need help with directions or general information?
+  - I need help with Directions
+  - sure what do you need directions on?
+- - I need help
+  - I can help you with Directions or general information
+- - I need help with getting directions
+  - Sure, directions to where?
+- - Im not Sure
+  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
+- - what is there?
+  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
+- - Where can I go?
+  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
+- - Im not sure what rooms you Have
+  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
+- - What rooms do you have?
+  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
+- - Im not sure where is everything
+  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
+- - Where Am I currently?
+  - I believe you are in the main corridor, for any other inquiries please check in with the front desk
+- - Where am I?
+  - I believe you are in the main corridor, for any other inquiries please check in with the front desk
+- - I dont know where I am
+  - It seems you are in the main Corridor, we have a help desk you may be able to check in with.
+- - I am Lost
+  - you are in the main corridor, we also have a help desk in the front with live employees
+- - I am in the main corridor
+  - correct
+- - Am I in the main corridor?
+  - That is correct you are in the main Corridor
+- - I am in the Left corridor
+  - That is incorrect you are in the main corridor currently
+- - Where is the bathroom?
+  - You may find the bathroom in third room down the main corridor to the left
+- - I need to find a bathroom
+  - Bathroom is in the third door in the main corridor to the left
+- - I need to pee
+  - You may find the bathroom in third room down the main corridor to the left
+- - I need to take a number 2
+  - You may find the bathroom in third room down the main corridor to the left
+- - I need to take a number 1
+  - You may find the bathroom in third room down the main corridor to the left
+- - I need to poop
+  - You may find the bathroom in third room down the main corridor to the left
+- - Where is the exit?
+  - the exit is located on both sides of the main Corridor
+- - I have an emergency.
+  - you may find the emergency room in the left corridor the first room to the right, please check in with the front desk first they will assist you
+- - Where can I find the emergency room?
+- - I am in pain
+  - you may find the emergency room in the left corridor the first room to the right, please check in with the front desk first they will assist you
+- - I need help badly
+  - you may find the emergency room in the left corridor the first room to the right, please check in with the front desk first they will assist you
+- - I am hurting
+  - you may find the emergency room in the left corridor the first room to the right, please check in with the front desk first they will assist you
+- - This is an emergency
+  - you may find the emergency room in the left corridor the first room to the right, please check in with the front desk first they will assist you
+- - I need to go the emergency room
+  - Please check in with the front desk, the emergency room is in the left corridor and is the first room to the right
+- - I would like to go to the emergency room
+  - Emergency room is in the left corridor the first room to the right, please check in with the front desk first they will assist you
+- - Where can I find the medical lab?
+  - the medical lab is on the right corridor in the 2nd room to the Left, please check in with the front desk first
+- - I need help finding the medical lab
+  - the medical lab is on the right corridor in the 2nd room to the Left, please check in with the front desk first
+- - where is the medical lab?
+  - the medical lab is on the right corridor in the 2nd room to the Left, please check in with the front desk first
+- - I dont know where the medical lab is
+  - the medical lab is on the right corridor in the 2nd room to the Left, please check in with the front desk first
+- - I would like to go to the medical lab
+  - you may find the lab in the 2nd room on the left within the right corridor corridor, please check in with the front desk first
+- - what corridor is the medical lab located?
+  - The Lab is located in the right Corridor
+- - what corridor is the bathroom located?
+  - The bathroom is located in the main Corridor
+- - what corridor is the emergency room?
+  - emergency room is located in the left corridor.
+- - What corridor is the operating room?
+  - The operating room entrance is located in the main corridor
+- - Do you have an operating room?
+  - yes we do have an operating room would you like to go to it?
+  - yes I would like to go to the operating room
+  - The operating room is located in the main corridor, the 2nd door on the right. please check in with the front desk first
+- - I need to find the operating room.
+  - The operating room is located in the main corridor, the 2nd door on the right. please check in with the front desk first
+- - Where is the operating room
+  - The operating room is located in the main corridor, the 2nd door on the right. please check in with the front desk first
+- - do you know where the operating room is?
+  - yes of course
+  - where is it?
+  - The operating room is located in the main corridor, the 2nd door on the right. please check in with the front desk first
+- - where can I find the operating room?
+  - The operating room is located in the main corridor, the 2nd door on the right. please check in with the front desk first
+- - I would like to go to the operating room
+  - The operating room is located in the main corridor, the 2nd door on the right. please check in with the front desk first
+- - Thank You.
+  - You are Welcome.
