@@ -29,7 +29,7 @@ CorpusTrainer = ChatterBotCorpusTrainer(chatbot)
 CorpusTrainer.train("./Greetings-Directions.yml","./General-Information.yml")
 
 print("Welcome to St.Rose Hospital main terminal, How may I help you?\n")
-    
+
 # Get a response to the input text 'I would like to book a flight.'
 while True:
     try:
@@ -40,13 +40,14 @@ while True:
         print(response)
 
         #Verify for correct input
-        print('\nIs this a valid response?')
-        if feedback() is False:
-            print('please input the correct response')
-            text = input()
-            correct_response = Statement(text)
-            chatbot.learn_response(correct_response, Query)
-            print('Responses added to bot!')
+        #print('\nIs this a valid response?')
+        #if feedback() is False:
+        #    print('please input the correct response')
+        #    text = input()
+        #    correct_response = Statement(text)
+        #    chatbot.learn_response(correct_response, Query)
+        #    print('Responses added to bot!\n')
+        #    print("\n")
         #Response Correction done
 
     except(KeyboardInterrupt, EOFError, SystemExit):
