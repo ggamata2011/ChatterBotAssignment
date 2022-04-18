@@ -21,12 +21,13 @@ def feedback():
 # Create a new chatBot
 chatbot = ChatBot('Assistant',logic_adapters =[
     { 'import_path':'chatterbot.logic.BestMatch',
-      'default_response': 'I am not sure what you mean, I provide directions and general information only',
-      'maximum_similarity_threshold': 0.9}],
+      'default_response': 'I am not sure what you mean,I provide directions and general information only',
+      'maximum_similarity_threshold': 0.50}],
       storage_adapter= 'chatterbot.storage.SQLStorageAdapter'
     )    
 
-#best match adapter will use after training
+
+
 
 
 
@@ -44,22 +45,21 @@ while True:
         print("Assistant:")
         print(response)
 
-        #Verify for correct input
-        print('\nIs this a valid response?')
-        if feedback() is False:
-            print('please input the correct response')
-            text = input()
-            correct_response = Statement(text)
-            chatbot.learn_response(correct_response, Query)
-            print('Responses added to bot!\n')
-            print("\n")
-        #Response Correction done
+        #Valid Response checker code
+        #print('\nIs this a valid response?')
+        #if feedback() is False:
+        #    print('please input the correct response')
+        #    text = input()
+        #    correct_response = Statement(text)
+        #    chatbot.learn_response(correct_response, Query)
+        #    print('Responses added to bot!\n')
+        #    print("\n")
+        #Valid Response Checker done
 
     except(KeyboardInterrupt, EOFError, SystemExit):
         break
 
-#Export Data to json file
-#CorpusTrainer.export_for_training('./CustomConversation.json')
+
 
 
     

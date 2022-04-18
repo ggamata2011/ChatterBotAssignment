@@ -14,10 +14,10 @@ conversations:
   - Hi, how may I help you?
 - - Hello there
   - How can I be of service?
-  - I Need help with a service
+- - I Need help with a service
   - Sure, do you need help with directions or general information?
-  - I need help with Directions
-  - I need directions
+- - I need help with Directions
+- - I need directions
   - sure what do you need directions on?
 - - I need help
   - I can help you with Directions or general information
@@ -36,9 +36,13 @@ conversations:
 - - Im not sure where is everything
   - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
 - - Where Am I currently?
+  - you are in the main corridor, we also have a help desk in the front with live employees
 - - Where am I?
+  - you are in the main corridor, we also have a help desk in the front with live employees
 - - I dont know where I am
+  - you are in the main corridor, we also have a help desk in the front with live employees
 - - I am Lost
+  - you are in the main corridor, we also have a help desk in the front with live employees
 - - What corridor am i in?
   - you are in the main corridor, we also have a help desk in the front with live employees
 - - I am in the main corridor
@@ -73,15 +77,21 @@ conversations:
 - - I am hurting
   - Emergency room is in the left corridor the first room to the right, please check in with the front desk first they will assist you
 - - This is an emergency
+  - Emergency room is in the left corridor the first room to the right, please check in with the front desk first they will assist you
 - - I need to go the emergency room
+  - Emergency room is in the left corridor the first room to the right, please check in with the front desk first they will assist you
 - - I would like to go to the emergency room
   - Emergency room is in the left corridor the first room to the right, please check in with the front desk first they will assist you
 - - Where can I find the medical lab?
+  - you may find the lab in the 2nd room on the left within the right corridor, please check in with the front desk first
 - - I need help finding the medical lab
+   - you may find the lab in the 2nd room on the left within the right corridor, please check in with the front desk first
 - - where is the medical lab?
+  - you may find the lab in the 2nd room on the left within the right corridor, please check in with the front desk first
 - - I dont know where the medical lab is
+  - you may find the lab in the 2nd room on the left within the right corridor, please check in with the front desk first
 - - I would like to go to the medical lab
-  - you may find the lab in the 2nd room on the left within the right corridor corridor, please check in with the front desk first
+  - you may find the lab in the 2nd room on the left within the right corridor, please check in with the front desk first
 - - what corridor is the medical lab located?
   - The Lab is located in the right Corridor
 - - what corridor is the bathroom located?
@@ -92,14 +102,16 @@ conversations:
   - The operating room entrance is located in the main corridor
 - - Do you have an operating room?
   - yes we do have an operating room would you like to go to it?
-  - yes I would like to go to the operating room
+- - yes I would like to go to the operating room
   - The operating room is located in the main corridor, the 2nd door on the right. please check in with the front desk first
 - - I need to find the operating room.
+  - The operating room is located in the main corridor, the 2nd door on the right. please check in with the front desk first
 - - Where is the operating room
   - The operating room is located in the main corridor, the 2nd door on the right. please check in with the front desk first
 - - do you know where the operating room is?
   - yes of course, The operating room is located in the main corridor, the 2nd door on the right. please check in with the front desk first
 - - where can I find the operating room?
+  - The operating room is located in the main corridor, the 2nd door on the right. please check in with the front desk first
 - - I would like to go to the operating room
   - The operating room is located in the main corridor, the 2nd door on the right. please check in with the front desk first
 - - Thank You.
