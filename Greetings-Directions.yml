@@ -17,6 +17,7 @@ conversations:
 - - I Need help with a service
   - Sure, do you need help with directions or general information?
 - - I need help with Directions
+  - sure what do you need directions on?
 - - I need directions
   - sure what do you need directions on?
 - - I need help
@@ -24,17 +25,17 @@ conversations:
 - - I need help with getting directions
   - Sure, directions to where?
 - - Im not Sure
-  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
+  - We have an emergency room, a medical lab, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
 - - what is there?
-  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
+  - We have an emergency room, a medical lab, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
 - - Where can I go?
-  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
+  - We have an emergency room, a medical lab, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
 - - Im not sure what rooms you Have
-  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
+  - We have an emergency room, a medical lab, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
 - - What rooms do you have?
-  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
+  - We have an emergency room, a medical lab, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
 - - Im not sure where is everything
-  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
+  - We have an emergency room, a medical lab, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
 - - Where Am I currently?
   - you are in the main corridor, we also have a help desk in the front with live employees
 - - Where am I?
@@ -64,8 +65,11 @@ conversations:
 - - I need to poop
   - You may find the bathroom in third room down the main corridor to the left
 - - Where is the exit?
+  - the exit is located on both sides of the main Corridor
 - - Where can I exit?
   - the exit is located on both sides of the main Corridor
+- - I need to find the emergency room
+  - Emergency room is in the left corridor the first room to the right, please check in with the front desk first they will assist you
 - - I have an emergency
   - Emergency room is in the left corridor the first room to the right, please check in with the front desk first they will assist you
 - - Where can I find the emergency room?
@@ -83,6 +87,8 @@ conversations:
 - - I would like to go to the emergency room
   - Emergency room is in the left corridor the first room to the right, please check in with the front desk first they will assist you
 - - Where can I find the medical lab?
+  - you may find the lab in the 2nd room on the left within the right corridor, please check in with the front desk first
+- - I need to find the medical lab
   - you may find the lab in the 2nd room on the left within the right corridor, please check in with the front desk first
 - - I need help finding the medical lab
    - you may find the lab in the 2nd room on the left within the right corridor, please check in with the front desk first
