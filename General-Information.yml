@@ -9,22 +9,33 @@ categories:
 - patients
 - time
 conversations:
+- - I need help with general information
+  - sure, I have information on our location and our hours
 - - What Hospital is this?
   - You are in St.Rose Hospital
 - - What is the address of this hospital?
 - - Where is this hospital located?
 - - I need the address of the Hospital
 - - How could one locate this hospital?
+- - Where am I located?
   - We are located at 2275 Glade Avenue Hayward, CA 94545
 - - What are your hours?
 - - What are your open hours?
   - Our hours are from 10am to 8pm
+- - When are you open?
+- - When do you open?
+  - 10am
+- - when are you closed?
+- - when do you close?
+  - 8pm
 - - When are your visiting hours?
   - Visitation is open from 10 am to 8 pm
 - - What are your visiting hours?
   - Our hours are from 10am to 8pm
-- - I would like to visit a patientn
+- - I would like to visit a patient
+  - If you would like to visit a patient, please check in at the front desk, for more information
 - - Where do I go to see a patient?
+  - If you would like to visit a patient, please check in at the front desk, for more information
 - - I am looking for a patient
 - - Where is this patient?
   - If you would like to visit a patient, please check in at the front desk, for more information

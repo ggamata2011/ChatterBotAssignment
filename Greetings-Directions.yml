@@ -24,9 +24,13 @@ conversations:
 - - I need help with getting directions
   - Sure, directions to where?
 - - Im not Sure
+  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
 - - what is there?
+  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
 - - Where can I go?
+  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
 - - Im not sure what rooms you Have
+  - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
 - - What rooms do you have?
   - We have an emergency room, a medical bay, an operating room, as well as a bathroom, where would you like to go? we also have a front desk to check in for those who wish to see patients in their rooms.
 - - Im not sure where is everything
@@ -35,6 +39,7 @@ conversations:
 - - Where am I?
 - - I dont know where I am
 - - I am Lost
+- - What corridor am i in?
   - you are in the main corridor, we also have a help desk in the front with live employees
 - - I am in the main corridor
   - correct
@@ -47,18 +52,26 @@ conversations:
 - - I need to find a bathroom
   - Bathroom is in the third door in the main corridor to the left
 - - I need to pee
+  - You may find the bathroom in third room down the main corridor to the left
 - - I need to take a number 2
+  - You may find the bathroom in third room down the main corridor to the left
 - - I need to take a number 1
+  - You may find the bathroom in third room down the main corridor to the left
 - - I need to poop
   - You may find the bathroom in third room down the main corridor to the left
 - - Where is the exit?
 - - Where can I exit?
   - the exit is located on both sides of the main Corridor
-- - I have an emergency.
+- - I have an emergency
+  - Emergency room is in the left corridor the first room to the right, please check in with the front desk first they will assist you
 - - Where can I find the emergency room?
+  - Emergency room is in the left corridor the first room to the right, please check in with the front desk first they will assist you
 - - I am in pain
+  - Emergency room is in the left corridor the first room to the right, please check in with the front desk first they will assist you
 - - I need help badly
+  - Emergency room is in the left corridor the first room to the right, please check in with the front desk first they will assist you
 - - I am hurting
+  - Emergency room is in the left corridor the first room to the right, please check in with the front desk first they will assist you
 - - This is an emergency
 - - I need to go the emergency room
 - - I would like to go to the emergency room

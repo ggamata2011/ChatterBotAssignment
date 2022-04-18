@@ -25,6 +25,11 @@ chatbot = ChatBot('Assistant',logic_adapters =[
       'maximum_similarity_threshold': 0.9}],
       storage_adapter= 'chatterbot.storage.SQLStorageAdapter'
     )    
+
+#best match adapter will use after training
+
+
+
 CorpusTrainer = ChatterBotCorpusTrainer(chatbot)
 CorpusTrainer.train("./Greetings-Directions.yml","./General-Information.yml")
 
@@ -40,14 +45,14 @@ while True:
         print(response)
 
         #Verify for correct input
-        #print('\nIs this a valid response?')
-        #if feedback() is False:
-        #    print('please input the correct response')
-        #    text = input()
-        #    correct_response = Statement(text)
-        #    chatbot.learn_response(correct_response, Query)
-        #    print('Responses added to bot!\n')
-        #    print("\n")
+        print('\nIs this a valid response?')
+        if feedback() is False:
+            print('please input the correct response')
+            text = input()
+            correct_response = Statement(text)
+            chatbot.learn_response(correct_response, Query)
+            print('Responses added to bot!\n')
+            print("\n")
         #Response Correction done
 
     except(KeyboardInterrupt, EOFError, SystemExit):
