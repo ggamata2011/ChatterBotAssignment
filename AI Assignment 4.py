@@ -28,9 +28,6 @@ chatbot = ChatBot('Assistant',logic_adapters =[
 
 
 
-
-
-
 CorpusTrainer = ChatterBotCorpusTrainer(chatbot)
 CorpusTrainer.train("./Greetings-Directions.yml","./General-Information.yml")
 
